@@ -1,0 +1,33 @@
+.Hero{
+    text-align: center;
+    padding: 100px 20px;
+    background-color: grey;
+}
+.Hero img{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.Hero h1{
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+.Hero P{
+    font-size: 20px;
+    color: white;
+    margin-bottom: 25px;
+}
+.Hero button{
+    padding: 12px 25px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.Hero button:hover{
+    background-color: #0284c7;
+}

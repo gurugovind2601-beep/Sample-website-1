@@ -1,0 +1,15 @@
+.about{
+    background-color: lightcoral;
+    margin: 40px 10%;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
+}
+.about h2{
+    text-align: center;
+}
+.about p{
+    line-height: 1.0;
+    text-align: center;
+    color: #555;
+}

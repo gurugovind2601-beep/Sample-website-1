@@ -1,0 +1,24 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1e293b;
+    color: white;
+    padding: 5px 10%;
+}
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+.nav-links li{
+    cursor: pointer;
+    transition: 0.5s;
+}
+.nav-links li:hover{
+    color: aqua; 
+}
